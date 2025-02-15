@@ -18,7 +18,7 @@ Este projeto tem como objetivo analisar e acompanhar o status de cartões ativos
 
 1. Clone o repositório:
     ```bash
-    git clone <URL_DO_REPOSITORIO>
+    git clone [<URL_DO_REPOSITORIO>](https://github.com/theolourencao/Acompanhamento-de-Cart-es-Ativos)
     cd Acompanhamento-de-Cart-es-Ativos
     ```
 
